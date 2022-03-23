@@ -1,5 +1,6 @@
 {
   "name": "root",
+  "version": "16.4.2",
   "devDependencies": {
     "@4tw/cypress-drag-drop": "^2.0.0",
     "cross-env": "^7.0.3",
